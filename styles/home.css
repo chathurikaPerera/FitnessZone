@@ -1,0 +1,9 @@
+.text{
+    color: #270101;
+    font-size: x-large;
+    /*padding: 8px 12px;*/
+   /* position: absolute;*/
+    font-weight: bolder;
+    top: 20%;
+    text-align: center;
+}
