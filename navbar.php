@@ -9,7 +9,7 @@
     <div class = "topnav">
 
     <a href="/thoga.lk/farmer/dash" class="navlogo"><img width=80px src="/FitnessZone/images/logo2.jpg" alt="" class="logo" ></a>
-    <a href = ""> Add User </a>
+    <a href = "./users/add-user.php"> Add User </a>
     <a href = ""> View User </a>
     <a href = ""> Edit User </a>
 

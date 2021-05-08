@@ -67,3 +67,25 @@ body {
     margin-top: 0px;
       float: right;
   }
+
+  .container {
+    margin-top: 30px;
+    margin-bottom: 20px;
+    border-style: solid;
+    border-color: #000000;
+    padding: 50px;
+    border-radius: 15px;
+    background-color: #838080;
+    font-weight: bold;
+    letter-spacing: 5px;
+    border-width: 2px;
+    box-shadow: inset;
+  }
+
+  .topic {
+    align-content: center;
+    align-items: center;
+    margin-left: 25%;
+    margin-right: 25%;
+  }
+
